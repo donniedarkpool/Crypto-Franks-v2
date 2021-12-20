@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xBF16e4D1f4D2952782Afb31427800803fb54Ef00",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xbf16e4d1f4d2952782afb31427800803fb54ef00",
+  "NETWORK": {
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Crypto Franks",
+  "SYMBOL": "FRANKS",
+  "MAX_SUPPLY": 999,
+  "WEI_COST": 0.000000000000000000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
